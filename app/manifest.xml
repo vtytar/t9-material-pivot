@@ -64,7 +64,7 @@
         <bt:Url id="Taskpane.Url" DefaultValue="https://vtytar.github.io/t9-material-pivot/app/taskpane.html"/>
       </bt:Urls>
       <bt:ShortStrings>
-        <bt:String id="CommandsGroup.Label" DefaultValue="Гаражний кооператив T9"/>
+        <bt:String id="CommandsGroup.Label" DefaultValue="T9"/>
         <bt:String id="TaskpaneButton.Label" DefaultValue="Генератор видачі"/>
       </bt:ShortStrings>
       <bt:LongStrings>
