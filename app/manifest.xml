@@ -68,7 +68,7 @@
         <bt:String id="TaskpaneButton.Label" DefaultValue="Генератор видачі"/>
       </bt:ShortStrings>
       <bt:LongStrings>
-        <bt:String id="TaskpaneButton.Tooltip" DefaultValue="Розрахунок графіку видачі речей"/>
+        <bt:String id="TaskpaneButton.Tooltip" DefaultValue="Нічого такого, просто генератор видачі."/>
       </bt:LongStrings>
     </Resources>
   </VersionOverrides>
